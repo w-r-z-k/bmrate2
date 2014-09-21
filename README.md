@@ -1,4 +1,4 @@
-bmrate2
-=======
+bmrate
+======
 
-BMRate Presentation
+Online Calculator for the Basal Metabolic Rate (BMR)
